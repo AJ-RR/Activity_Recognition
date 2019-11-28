@@ -1,2 +1,2 @@
 # Activity_Reccognition
-Classification Model to recognize basic activities like climbing stairs, jumping, walking etc.
+Classification of various activities such as running, jumping, walking and climbing based on the mobile phone accelerometer and gyroscope sensor readings.
